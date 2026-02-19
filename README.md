@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Netflix Clone – Premium
 
 A cinematic Netflix-style React app with OMDb and Gemini AI integration.
@@ -54,3 +55,6 @@ A cinematic Netflix-style React app with OMDb and Gemini AI integration.
 - `npm run dev` – Start dev server
 - `npm run build` – Production build
 - `npm run preview` – Preview production build
+=======
+# Netflix
+>>>>>>> 9dea54a5c1cc8499eb899888a3abe0059c876644
