@@ -10,7 +10,7 @@ A cinematic Netflix-style React app with OMDb and Gemini AI integration.
 - **Framer Motion** (animations)
 - **Zustand** (global state)
 - **Axios** (API requests)
-- **React Router**
+- **React Router*
 
 ## Setup
 
