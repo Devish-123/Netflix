@@ -3,7 +3,7 @@
 
 A cinematic Netflix-style React app with OMDb and Gemini AI integration.
 
-## Tech Stack
+## Tech Stack 1
 
 - **React** (Vite)
 - **Tailwind CSS**
