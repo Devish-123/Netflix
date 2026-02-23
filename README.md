@@ -8,7 +8,7 @@ A cinematic Netflix-style React app with OMDb and Gemini AI integration.
 - **React** (Vite)
 - **Tailwind CSS
 - **Framer Motion** (animations)
-- **Zustand** (global state)
+-Zustand** (global state)
 - **Axios** (API requests)
 - **React Router*
 
