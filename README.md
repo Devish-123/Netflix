@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Netflix Clone – Premium
 
 A cinematic Netflix-style React app with OMDb and Gemini AI integration.
